@@ -19,11 +19,11 @@
 
 <div bind:this={item}  aria-expanded={isOpen} class="accordion-item">
   <button on:click={toggle} class="accordion-item__button">
-    <span>{entry[0]}
+    <span>{entry[0]}</span>
   </button>
   {#if isOpen}
   <div transition:slide={{ duration: 300 }} class="accordion-item__text">
-    {entry[1]}
+    <p>{entry[1]}</p>
   </div>
   {/if}
 </div>
