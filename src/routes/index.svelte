@@ -7,7 +7,8 @@
 </svelte:head>
 
 <script>
-  import Accordion from '$lib/Accordion.svelte'
+  import '$lib//Accordion/style.css';
+  import Accordion from '$lib/Accordion/Accordion.svelte'
 </script>
 
 <section>
