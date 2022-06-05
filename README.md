@@ -1,5 +1,7 @@
 # Svelte Accordion
 
+![Accordion built by Svelte](/screenshots/01.png?raw=true  "Accordion")
+
 
 ## Update
 

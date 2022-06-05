@@ -12,7 +12,7 @@
 
 <section>
 
-  <h1>IDFive Accordion using SvelteKit</h1>
+  <h1>Svelte Accordion</h1>
 
   <div class="container">
     <Accordion></Accordion>
